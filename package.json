@@ -1,0 +1,12 @@
+{
+    "name": "wanted_ts_challenge",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "docs": "jsdoc -c jsdoc.json"
+    },
+    "devDependencies": {
+        "jsdoc": "^4.0.0"
+    }
+}
